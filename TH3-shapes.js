@@ -68,3 +68,7 @@ var Circle = /** @class */ (function (_super) {
 var circleA = new Circle("yellow", true, 5);
 console.log(circleA.getArea());
 console.log(circleA.getPerimeter());
+function a() {
+    return null;
+}
+console.log(a());

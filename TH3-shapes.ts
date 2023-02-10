@@ -51,3 +51,4 @@ class Circle extends Shape {
 let circleA: Circle = new Circle("yellow", true, 5);
 console.log(circleA.getArea());
 console.log(circleA.getPerimeter());
+
