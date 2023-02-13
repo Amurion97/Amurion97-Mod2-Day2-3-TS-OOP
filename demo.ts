@@ -24,3 +24,11 @@ for (const giangKey in giang) {
         console.log(giangKey, giang[giangKey], typeof giangKey, typeof giang[giangKey]);
     }
 }
+
+interface Human {
+    readonly dog: number;
+}
+
+let Giang: Human = {
+    dog: 15,
+}

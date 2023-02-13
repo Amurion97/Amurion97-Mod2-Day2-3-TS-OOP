@@ -21,3 +21,6 @@ for (var giangKey in giang) {
         console.log(giangKey, giang[giangKey], typeof giangKey, typeof giang[giangKey]);
     }
 }
+var Giang = {
+    dog: 15
+};
